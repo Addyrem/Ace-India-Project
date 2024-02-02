@@ -1091,7 +1091,7 @@ html {
 }
 @media screen and (max-width: 769px) {
     .services_header h2{
-        font-size: 70px; 
+        font-size: 35px; 
     }
 }
 @media screen and(max-width:1440px){
